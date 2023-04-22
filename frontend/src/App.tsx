@@ -1,8 +1,9 @@
-import { Box } from "@chakra-ui/react"
+import { Box, Text } from '@chakra-ui/react'
+
 
 function App() {
   return (
-    <Box bg={"red"}>
+    <Box bg={"red"} color={"yellow"}>
       Hello
     </Box>
   );
